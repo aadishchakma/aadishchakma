@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I am aadish chakma.
+## I am Aadish Chakma.
 
 - 🌱 I’m currently learning Python and Kotlin.
 
