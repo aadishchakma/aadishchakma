@@ -1,7 +1,7 @@
 ### Hi there 👋
-## I am Aadish Chakma Roy.
+## I am Aadish Chakma.
 
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning Machine Learning with Python.
 <!--
 **aadishchakma/aadishchakma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
