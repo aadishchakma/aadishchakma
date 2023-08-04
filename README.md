@@ -1,8 +1,8 @@
 ### Hi there 👋
 ## I am Aadish Chakma.
 
-- 🔭 I’m currently working on RustProjects.
-- 🌱 I’m currently learning C++.
+- 🌱 I’m an undergraduate.
+- 🌱 I’m currently learning Rust.
 <!--
 **aadishchakma/aadishchakma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
